@@ -1,0 +1,755 @@
+Bookmaker: DraftKings
+Moneyline: Baltimore Ravens 1.24, Las Vegas Raiders 4.2
+Spread: Baltimore Ravens -8.0 1.89, Las Vegas Raiders 8.0 1.93
+Total: Over 41.0 1.89
+Bookmaker: Caesars
+Moneyline: Baltimore Ravens 1.22, Las Vegas Raiders 4.45
+Spread: Baltimore Ravens -8.0 1.91, Las Vegas Raiders 8.0 1.91
+Total: Over 41.5 1.91
+Bookmaker: BetRivers
+Moneyline: Baltimore Ravens 1.22, Las Vegas Raiders 4.2
+Spread: Baltimore Ravens -8.0 1.92, Las Vegas Raiders 8.0 1.89
+Total: Over 41.5 1.93
+Bookmaker: BetUS
+Moneyline: Baltimore Ravens 1.24, Las Vegas Raiders 4.3
+Spread: Baltimore Ravens -9.5 2.0, Las Vegas Raiders 9.5 1.83
+Total: Over 41.0 1.91
+Bookmaker: Bovada
+Moneyline: Baltimore Ravens 1.22, Las Vegas Raiders 4.35
+Spread: Baltimore Ravens -8.5 1.91, Las Vegas Raiders 8.5 1.91
+Total: Over 41.5 1.91
+Bookmaker: FanDuel
+Moneyline: Baltimore Ravens 1.23, Las Vegas Raiders 4.4
+Spread: Baltimore Ravens -8.5 1.87, Las Vegas Raiders 8.5 1.95
+Total: Over 41.5 1.95
+Bookmaker: BetMGM
+Moneyline: Baltimore Ravens 1.22, Las Vegas Raiders 4.5
+Spread: Baltimore Ravens -8.5 1.87, Las Vegas Raiders 8.5 1.95
+Total: Over 41.5 1.91
+Bookmaker: LowVig.ag
+Moneyline: Baltimore Ravens 1.24, Las Vegas Raiders 4.4
+Spread: Baltimore Ravens -9.0 1.99, Las Vegas Raiders 9.0 1.92
+Total: Over 41.5 1.94
+Bookmaker: BetOnline.ag
+Moneyline: Baltimore Ravens 1.24, Las Vegas Raiders 4.4
+Spread: Baltimore Ravens -9.0 1.95, Las Vegas Raiders 9.0 1.87
+Total: Over 41.5 1.91
+
+Bookmaker: DraftKings
+Moneyline: Carolina Panthers 2.9, Los Angeles Chargers 1.43
+Spread: Carolina Panthers 5.0 1.91, Los Angeles Chargers -5.0 1.91
+Total: Over 39.0 1.93
+Bookmaker: Caesars
+Moneyline: Carolina Panthers 2.92, Los Angeles Chargers 1.43
+Spread: Carolina Panthers 5.0 1.91, Los Angeles Chargers -5.0 1.91
+Total: Over 39.0 1.91
+Bookmaker: BetRivers
+Moneyline: Carolina Panthers 2.95, Los Angeles Chargers 1.41
+Spread: Carolina Panthers 5.0 1.89, Los Angeles Chargers -5.0 1.92
+Total: Over 39.0 1.93
+Bookmaker: BetUS
+Moneyline: Carolina Panthers 3.03, Los Angeles Chargers 1.42
+Spread: Carolina Panthers 5.0 1.95, Los Angeles Chargers -5.0 1.87
+Total: Over 38.5 1.91
+Bookmaker: Bovada
+Moneyline: Carolina Panthers 3.05, Los Angeles Chargers 1.41
+Spread: Carolina Panthers 5.0 1.95, Los Angeles Chargers -5.0 1.87
+Total: Over 38.5 1.91
+Bookmaker: FanDuel
+Moneyline: Carolina Panthers 3.0, Los Angeles Chargers 1.41
+Spread: Carolina Panthers 4.5 1.95, Los Angeles Chargers -4.5 1.87
+Total: Over 38.5 1.89
+Bookmaker: BetMGM
+Moneyline: Carolina Panthers 3.0, Los Angeles Chargers 1.4
+Spread: Carolina Panthers 5.5 1.91, Los Angeles Chargers -5.5 1.91
+Total: Over 39.0 1.91
+Bookmaker: LowVig.ag
+Moneyline: Carolina Panthers 3.0, Los Angeles Chargers 1.42
+Spread: Carolina Panthers 5.0 1.96, Los Angeles Chargers -5.0 1.94
+Total: Over 38.5 1.94
+Bookmaker: BetOnline.ag
+Moneyline: Carolina Panthers 3.0, Los Angeles Chargers 1.42
+Spread: Carolina Panthers 5.0 1.92, Los Angeles Chargers -5.0 1.9
+Total: Over 38.5 1.91
+
+Bookmaker: DraftKings
+Moneyline: Cleveland Browns 2.4, Jacksonville Jaguars 1.6
+Spread: Cleveland Browns 3.0 1.98, Jacksonville Jaguars -3.0 1.85
+Total: Over 41.5 1.93
+Bookmaker: Caesars
+Moneyline: Cleveland Browns 2.4, Jacksonville Jaguars 1.61
+Spread: Cleveland Browns 3.0 1.95, Jacksonville Jaguars -3.0 1.87
+Total: Over 41.5 1.91
+Bookmaker: BetRivers
+Moneyline: Cleveland Browns 2.35, Jacksonville Jaguars 1.6
+Spread: Cleveland Browns 3.0 1.92, Jacksonville Jaguars -3.0 1.89
+Total: Over 41.5 1.89
+Bookmaker: BetUS
+Moneyline: Cleveland Browns 2.38, Jacksonville Jaguars 1.62
+Spread: Cleveland Browns 3.0 1.91, Jacksonville Jaguars -3.0 1.91
+Total: Over 41.5 1.91
+Bookmaker: Bovada
+Moneyline: Cleveland Browns 2.4, Jacksonville Jaguars 1.61
+Spread: Cleveland Browns 3.0 1.95, Jacksonville Jaguars -3.0 1.87
+Total: Over 41.5 1.91
+Bookmaker: FanDuel
+Moneyline: Cleveland Browns 2.38, Jacksonville Jaguars 1.61
+Spread: Cleveland Browns 3.0 1.91, Jacksonville Jaguars -3.0 1.91
+Total: Over 41.5 1.91
+Bookmaker: BetMGM
+Moneyline: Cleveland Browns 2.35, Jacksonville Jaguars 1.62
+Spread: Cleveland Browns 3.0 1.87, Jacksonville Jaguars -3.0 1.95
+Total: Over 41.5 1.91
+Bookmaker: LowVig.ag
+Moneyline: Cleveland Browns 2.32, Jacksonville Jaguars 1.66
+Spread: Cleveland Browns 3.0 1.92, Jacksonville Jaguars -3.0 1.99
+Total: Over 41.0 1.87
+Bookmaker: BetOnline.ag
+Moneyline: Cleveland Browns 2.32, Jacksonville Jaguars 1.66
+Spread: Cleveland Browns 3.0 1.89, Jacksonville Jaguars -3.0 1.93
+Total: Over 41.0 1.85
+
+Bookmaker: DraftKings
+Moneyline: Dallas Cowboys 1.39, New Orleans Saints 3.1
+Spread: Dallas Cowboys -6.0 1.91, New Orleans Saints 6.0 1.91
+Total: Over 46.5 1.89
+Bookmaker: Caesars
+Moneyline: Dallas Cowboys 1.36, New Orleans Saints 3.22
+Spread: Dallas Cowboys -6.0 1.91, New Orleans Saints 6.0 1.91
+Total: Over 46.5 1.91
+Bookmaker: BetRivers
+Moneyline: Dallas Cowboys 1.34, New Orleans Saints 3.3
+Spread: Dallas Cowboys -6.0 1.89, New Orleans Saints 6.0 1.92
+Total: Over 46.5 1.89
+Bookmaker: BetUS
+Moneyline: Dallas Cowboys 1.36, New Orleans Saints 3.3
+Spread: Dallas Cowboys -6.0 1.91, New Orleans Saints 6.0 1.91
+Total: Over 47.0 1.91
+Bookmaker: Bovada
+Moneyline: Dallas Cowboys 1.36, New Orleans Saints 3.25
+Spread: Dallas Cowboys -6.0 1.87, New Orleans Saints 6.0 1.95
+Total: Over 46.0 1.83
+Bookmaker: FanDuel
+Moneyline: Dallas Cowboys 1.38, New Orleans Saints 3.15
+Spread: Dallas Cowboys -6.5 1.98, New Orleans Saints 6.5 1.83
+Total: Over 46.5 1.91
+Bookmaker: BetMGM
+Moneyline: Dallas Cowboys 1.36, New Orleans Saints 3.25
+Spread: Dallas Cowboys -6.0 1.87, New Orleans Saints 6.0 1.95
+Total: Over 46.5 1.91
+Bookmaker: LowVig.ag
+Moneyline: Dallas Cowboys 1.36, New Orleans Saints 3.3
+Spread: Dallas Cowboys -6.0 1.95, New Orleans Saints 6.0 1.95
+Total: Over 46.5 1.89
+Bookmaker: BetOnline.ag
+Moneyline: Dallas Cowboys 1.36, New Orleans Saints 3.3
+Spread: Dallas Cowboys -6.0 1.91, New Orleans Saints 6.0 1.91
+Total: Over 46.5 1.87
+
+Bookmaker: DraftKings
+Moneyline: Detroit Lions 1.28, Tampa Bay Buccaneers 3.85
+Spread: Detroit Lions -7.5 1.95, Tampa Bay Buccaneers 7.5 1.87
+Total: Over 51.0 1.89
+Bookmaker: Caesars
+Moneyline: Detroit Lions 1.27, Tampa Bay Buccaneers 3.85
+Spread: Detroit Lions -7.5 1.95, Tampa Bay Buccaneers 7.5 1.87
+Total: Over 51.5 1.91
+Bookmaker: BetRivers
+Moneyline: Detroit Lions 1.27, Tampa Bay Buccaneers 3.9
+Spread: Detroit Lions -7.0 1.88, Tampa Bay Buccaneers 7.0 1.93
+Total: Over 51.0 1.89
+Bookmaker: Bovada
+Moneyline: Detroit Lions 1.27, Tampa Bay Buccaneers 3.85
+Spread: Detroit Lions -7.5 1.91, Tampa Bay Buccaneers 7.5 1.91
+Total: Over 51.0 1.91
+Bookmaker: BetUS
+Moneyline: Detroit Lions 1.28, Tampa Bay Buccaneers 3.85
+Spread: Detroit Lions -8.0 2.0, Tampa Bay Buccaneers 8.0 1.83
+Total: Over 51.5 1.91
+Bookmaker: FanDuel
+Moneyline: Detroit Lions 1.27, Tampa Bay Buccaneers 3.95
+Spread: Detroit Lions -7.5 1.95, Tampa Bay Buccaneers 7.5 1.87
+Total: Over 51.5 1.95
+Bookmaker: BetMGM
+Moneyline: Detroit Lions 1.27, Tampa Bay Buccaneers 3.9
+Spread: Detroit Lions -7.5 1.91, Tampa Bay Buccaneers 7.5 1.91
+Total: Over 51.5 1.91
+Bookmaker: LowVig.ag
+Moneyline: Detroit Lions 1.29, Tampa Bay Buccaneers 3.8
+Spread: Detroit Lions -7.5 1.97, Tampa Bay Buccaneers 7.5 1.94
+Total: Over 51.5 1.98
+Bookmaker: BetOnline.ag
+Moneyline: Detroit Lions 1.29, Tampa Bay Buccaneers 3.8
+Spread: Detroit Lions -7.5 1.94, Tampa Bay Buccaneers 7.5 1.88
+Total: Over 51.5 1.95
+
+Bookmaker: DraftKings
+Moneyline: Green Bay Packers 2.2, Indianapolis Colts 1.7
+Spread: Green Bay Packers 3.0 1.85, Indianapolis Colts -3.0 1.98
+Total: Over 40.5 1.93
+Bookmaker: Caesars
+Moneyline: Green Bay Packers 2.22, Indianapolis Colts 1.69
+Spread: Green Bay Packers 2.5 2.0, Indianapolis Colts -2.5 1.83
+Total: Over 40.5 1.91
+Bookmaker: BetRivers
+Moneyline: Green Bay Packers 2.2, Indianapolis Colts 1.68
+Spread: Green Bay Packers 2.5 1.95, Indianapolis Colts -2.5 1.85
+Total: Over 40.0 1.89
+Bookmaker: BetUS
+Moneyline: Green Bay Packers 2.2, Indianapolis Colts 1.71
+Spread: Green Bay Packers 2.5 2.0, Indianapolis Colts -2.5 1.83
+Total: Over 40.5 1.91
+Bookmaker: Bovada
+Moneyline: Green Bay Packers 2.2, Indianapolis Colts 1.71
+Spread: Green Bay Packers 2.5 1.95, Indianapolis Colts -2.5 1.87
+Total: Over 40.5 1.87
+Bookmaker: FanDuel
+Moneyline: Green Bay Packers 2.28, Indianapolis Colts 1.66
+Spread: Green Bay Packers 3.0 1.83, Indianapolis Colts -3.0 1.98
+Total: Over 40.5 1.94
+Bookmaker: BetMGM
+Moneyline: Green Bay Packers 2.2, Indianapolis Colts 1.69
+Spread: Green Bay Packers 2.5 2.0, Indianapolis Colts -2.5 1.83
+Total: Over 40.5 1.91
+Bookmaker: LowVig.ag
+Moneyline: Green Bay Packers 2.28, Indianapolis Colts 1.68
+Spread: Green Bay Packers 2.5 2.07, Indianapolis Colts -2.5 1.85
+Total: Over 40.5 1.94
+Bookmaker: BetOnline.ag
+Moneyline: Green Bay Packers 2.28, Indianapolis Colts 1.68
+Spread: Green Bay Packers 2.5 2.0, Indianapolis Colts -2.5 1.83
+Total: Over 40.5 1.91
+
+Bookmaker: DraftKings
+Moneyline: Minnesota Vikings 2.8, San Francisco 49ers 1.46
+Spread: Minnesota Vikings 4.5 1.91, San Francisco 49ers -4.5 1.91
+Total: Over 46.5 1.93
+Bookmaker: Caesars
+Moneyline: Minnesota Vikings 2.85, San Francisco 49ers 1.44
+Spread: Minnesota Vikings 4.5 1.91, San Francisco 49ers -4.5 1.91
+Total: Over 46.5 1.95
+Bookmaker: BetRivers
+Moneyline: Minnesota Vikings 2.85, San Francisco 49ers 1.42
+Spread: Minnesota Vikings 5.0 1.91, San Francisco 49ers -5.0 1.91
+Total: Over 46.5 1.89
+Bookmaker: BetUS
+Moneyline: Minnesota Vikings 2.9, San Francisco 49ers 1.44
+Spread: Minnesota Vikings 4.5 1.91, San Francisco 49ers -4.5 1.91
+Total: Over 46.5 1.91
+Bookmaker: Bovada
+Moneyline: Minnesota Vikings 2.9, San Francisco 49ers 1.43
+Spread: Minnesota Vikings 4.5 1.91, San Francisco 49ers -4.5 1.91
+Total: Over 46.5 1.91
+Bookmaker: FanDuel
+Moneyline: Minnesota Vikings 2.88, San Francisco 49ers 1.44
+Spread: Minnesota Vikings 5.5 1.87, San Francisco 49ers -5.5 1.95
+Total: Over 46.5 1.91
+Bookmaker: BetMGM
+Moneyline: Minnesota Vikings 2.85, San Francisco 49ers 1.44
+Spread: Minnesota Vikings 4.5 1.91, San Francisco 49ers -4.5 1.91
+Total: Over 46.5 1.91
+Bookmaker: LowVig.ag
+Moneyline: Minnesota Vikings 2.95, San Francisco 49ers 1.44
+Spread: Minnesota Vikings 4.5 1.93, San Francisco 49ers -4.5 1.98
+Total: Over 46.0 1.94
+Bookmaker: BetOnline.ag
+Moneyline: Minnesota Vikings 2.95, San Francisco 49ers 1.44
+Spread: Minnesota Vikings 4.5 1.88, San Francisco 49ers -4.5 1.93
+Total: Over 46.0 1.91
+
+Bookmaker: DraftKings
+Moneyline: New England Patriots 2.42, Seattle Seahawks 1.59
+Spread: New England Patriots 3.0 1.98, Seattle Seahawks -3.0 1.85
+Total: Over 38.0 1.89
+Bookmaker: Caesars
+Moneyline: New England Patriots 2.43, Seattle Seahawks 1.59
+Spread: New England Patriots 3.0 1.95, Seattle Seahawks -3.0 1.87
+Total: Over 38.5 1.91
+Bookmaker: BetRivers
+Moneyline: New England Patriots 2.45, Seattle Seahawks 1.56
+Spread: New England Patriots 3.0 1.89, Seattle Seahawks -3.0 1.92
+Total: Over 38.5 1.91
+Bookmaker: BetUS
+Moneyline: New England Patriots 2.42, Seattle Seahawks 1.61
+Spread: New England Patriots 3.0 1.91, Seattle Seahawks -3.0 1.91
+Total: Over 38.5 1.91
+Bookmaker: Bovada
+Moneyline: New England Patriots 2.4, Seattle Seahawks 1.61
+Spread: New England Patriots 3.0 1.91, Seattle Seahawks -3.0 1.91
+Total: Over 38.0 1.91
+Bookmaker: FanDuel
+Moneyline: New England Patriots 2.54, Seattle Seahawks 1.54
+Spread: New England Patriots 3.5 1.88, Seattle Seahawks -3.5 1.94
+Total: Over 38.5 1.91
+Bookmaker: BetOnline.ag
+Moneyline: New England Patriots 2.45, Seattle Seahawks 1.61
+Spread: New England Patriots 3.0 1.91, Seattle Seahawks -3.0 1.91
+Total: Over 38.0 1.91
+Bookmaker: LowVig.ag
+Moneyline: New England Patriots 2.45, Seattle Seahawks 1.61
+Spread: New England Patriots 3.0 1.95, Seattle Seahawks -3.0 1.95
+Total: Over 38.0 1.94
+Bookmaker: BetMGM
+Moneyline: New England Patriots 2.4, Seattle Seahawks 1.61
+Spread: New England Patriots 3.0 1.95, Seattle Seahawks -3.0 1.87
+Total: Over 38.5 1.91
+
+Bookmaker: DraftKings
+Moneyline: New York Giants 2.0, Washington Commanders 1.83
+Spread: New York Giants 1.5 1.91, Washington Commanders -1.5 1.91
+Total: Over 43.5 1.93
+Bookmaker: Caesars
+Moneyline: New York Giants 2.05, Washington Commanders 1.8
+Spread: New York Giants 1.5 1.91, Washington Commanders -1.5 1.91
+Total: Over 43.5 1.91
+Bookmaker: BetRivers
+Moneyline: New York Giants 2.02, Washington Commanders 1.81
+Spread: New York Giants 1.5 1.91, Washington Commanders -1.5 1.91
+Total: Over 43.5 1.93
+Bookmaker: BetUS
+Moneyline: New York Giants 2.0, Washington Commanders 1.83
+Spread: New York Giants 1.0 1.95, Washington Commanders -1.0 1.87
+Total: Over 43.5 1.91
+Bookmaker: Bovada
+Moneyline: New York Giants 2.05, Washington Commanders 1.8
+Spread: New York Giants 1.5 1.91, Washington Commanders -1.5 1.91
+Total: Over 43.5 1.95
+Bookmaker: FanDuel
+Moneyline: New York Giants 2.1, Washington Commanders 1.77
+Spread: New York Giants 1.5 1.91, Washington Commanders -1.5 1.91
+Total: Over 43.5 1.91
+Bookmaker: LowVig.ag
+Moneyline: New York Giants 2.05, Washington Commanders 1.8
+Spread: New York Giants 1.0 2.01, Washington Commanders -1.0 1.89
+Total: Over 43.0 1.89
+Bookmaker: BetOnline.ag
+Moneyline: New York Giants 2.05, Washington Commanders 1.8
+Spread: New York Giants 1.0 1.96, Washington Commanders -1.0 1.86
+Total: Over 43.0 1.87
+Bookmaker: BetMGM
+Moneyline: New York Giants 2.05, Washington Commanders 1.8
+Spread: New York Giants 1.5 1.91, Washington Commanders -1.5 1.91
+Total: Over 43.5 1.91
+
+Bookmaker: DraftKings
+Moneyline: New York Jets 1.57, Tennessee Titans 2.45
+Spread: New York Jets -3.5 1.91, Tennessee Titans 3.5 1.91
+Total: Over 41.0 1.91
+Bookmaker: Caesars
+Moneyline: New York Jets 1.53, Tennessee Titans 2.58
+Spread: New York Jets -3.5 1.91, Tennessee Titans 3.5 1.91
+Total: Over 41.0 1.91
+Bookmaker: BetRivers
+Moneyline: New York Jets 1.51, Tennessee Titans 2.55
+Spread: New York Jets -3.5 1.89, Tennessee Titans 3.5 1.91
+Total: Over 41.0 1.93
+Bookmaker: Bovada
+Moneyline: New York Jets 1.51, Tennessee Titans 2.65
+Spread: New York Jets -3.5 1.87, Tennessee Titans 3.5 1.95
+Total: Over 41.0 1.87
+Bookmaker: BetUS
+Moneyline: New York Jets 1.54, Tennessee Titans 2.59
+Spread: New York Jets -3.5 1.91, Tennessee Titans 3.5 1.91
+Total: Over 41.0 1.91
+Bookmaker: FanDuel
+Moneyline: New York Jets 1.51, Tennessee Titans 2.66
+Spread: New York Jets -3.5 1.87, Tennessee Titans 3.5 1.95
+Total: Over 41.5 1.95
+Bookmaker: BetMGM
+Moneyline: New York Jets 1.53, Tennessee Titans 2.55
+Spread: New York Jets -3.5 1.91, Tennessee Titans 3.5 1.91
+Total: Over 41.0 1.91
+Bookmaker: BetOnline.ag
+Moneyline: New York Jets 1.56, Tennessee Titans 2.6
+Spread: New York Jets -3.5 1.91, Tennessee Titans 3.5 1.91
+Total: Over 41.0 1.91
+Bookmaker: LowVig.ag
+Moneyline: New York Jets 1.56, Tennessee Titans 2.6
+Spread: New York Jets -3.5 1.95, Tennessee Titans 3.5 1.95
+Total: Over 41.0 1.94
+
+Bookmaker: DraftKings
+Moneyline: Arizona Cardinals 1.91, Los Angeles Rams 1.91
+Spread: Arizona Cardinals -1.0 1.95, Los Angeles Rams 1.0 1.87
+Total: Over 48.0 1.91
+Bookmaker: Caesars
+Moneyline: Arizona Cardinals 1.91, Los Angeles Rams 1.91
+Spread: Arizona Cardinals 0.0 1.91, Los Angeles Rams -0.0 1.91
+Total: Over 48.0 1.91
+Bookmaker: BetRivers
+Moneyline: Arizona Cardinals 1.89, Los Angeles Rams 1.92
+Spread: Arizona Cardinals -0.5 1.92, Los Angeles Rams 0.5 1.89
+Total: Over 47.5 1.91
+Bookmaker: BetUS
+Spread: Arizona Cardinals 0.0 1.91, Los Angeles Rams 0.0 1.91
+Total: Over 48.0 1.91
+Bookmaker: Bovada
+Moneyline: Arizona Cardinals 1.91, Los Angeles Rams 1.91
+Spread: Arizona Cardinals 1.0 1.87, Los Angeles Rams -1.0 1.95
+Total: Over 48.5 1.95
+Bookmaker: FanDuel
+Moneyline: Arizona Cardinals 1.89, Los Angeles Rams 1.96
+Spread: Arizona Cardinals -1.5 1.98, Los Angeles Rams 1.5 1.83
+Total: Over 47.5 1.87
+Bookmaker: LowVig.ag
+Spread: Arizona Cardinals 0.0 1.96, Los Angeles Rams 0.0 1.94
+Total: Over 47.5 1.91
+Bookmaker: BetOnline.ag
+Spread: Arizona Cardinals 0.0 1.92, Los Angeles Rams 0.0 1.9
+Total: Over 47.5 1.88
+Bookmaker: BetMGM
+Moneyline: Arizona Cardinals 1.91, Los Angeles Rams 1.91
+Total: Over 48.0 1.91
+
+Bookmaker: DraftKings
+Moneyline: Cincinnati Bengals 3.2, Kansas City Chiefs 1.37
+Spread: Cincinnati Bengals 6.0 1.93, Kansas City Chiefs -6.0 1.89
+Total: Over 48.0 1.91
+Bookmaker: BetRivers
+Moneyline: Cincinnati Bengals 3.05, Kansas City Chiefs 1.4
+Spread: Cincinnati Bengals 6.0 1.88, Kansas City Chiefs -6.0 1.93
+Total: Over 47.5 1.88
+Bookmaker: BetOnline.ag
+Moneyline: Cincinnati Bengals 3.2, Kansas City Chiefs 1.38
+Spread: Cincinnati Bengals 6.0 1.91, Kansas City Chiefs -6.0 1.91
+Total: Over 48.0 1.95
+Bookmaker: LowVig.ag
+Moneyline: Cincinnati Bengals 3.2, Kansas City Chiefs 1.39
+Spread: Cincinnati Bengals 6.0 1.95, Kansas City Chiefs -6.0 1.95
+Total: Over 48.0 1.98
+Bookmaker: FanDuel
+Moneyline: Cincinnati Bengals 3.15, Kansas City Chiefs 1.38
+Spread: Cincinnati Bengals 5.5 1.95, Kansas City Chiefs -5.5 1.87
+Total: Over 47.5 1.87
+Bookmaker: Caesars
+Moneyline: Cincinnati Bengals 3.15, Kansas City Chiefs 1.37
+Spread: Cincinnati Bengals 6.0 1.95, Kansas City Chiefs -6.0 1.87
+Total: Over 48.0 1.91
+Bookmaker: BetUS
+Moneyline: Cincinnati Bengals 3.18, Kansas City Chiefs 1.38
+Spread: Cincinnati Bengals 6.0 1.91, Kansas City Chiefs -6.0 1.91
+Total: Over 48.0 1.91
+Bookmaker: Bovada
+Moneyline: Cincinnati Bengals 3.3, Kansas City Chiefs 1.36
+Spread: Cincinnati Bengals 6.0 1.95, Kansas City Chiefs -6.0 1.87
+Total: Over 48.0 1.91
+Bookmaker: BetMGM
+Moneyline: Cincinnati Bengals 3.0, Kansas City Chiefs 1.4
+Total: Over 48.0 1.91
+
+Bookmaker: DraftKings
+Moneyline: Denver Broncos 2.3, Pittsburgh Steelers 1.65
+Spread: Denver Broncos 2.5 2.0, Pittsburgh Steelers -2.5 1.83
+Total: Over 36.5 1.93
+Bookmaker: Caesars
+Moneyline: Denver Broncos 2.22, Pittsburgh Steelers 1.69
+Spread: Denver Broncos 2.5 2.0, Pittsburgh Steelers -2.5 1.83
+Total: Over 36.5 1.91
+Bookmaker: BetRivers
+Moneyline: Denver Broncos 2.2, Pittsburgh Steelers 1.68
+Spread: Denver Broncos 2.5 1.93, Pittsburgh Steelers -2.5 1.88
+Total: Over 36.5 1.92
+Bookmaker: BetUS
+Moneyline: Denver Broncos 2.25, Pittsburgh Steelers 1.69
+Spread: Denver Broncos 2.0 2.0, Pittsburgh Steelers -2.0 1.83
+Total: Over 36.5 1.91
+Bookmaker: Bovada
+Moneyline: Denver Broncos 2.2, Pittsburgh Steelers 1.71
+Spread: Denver Broncos 2.5 1.95, Pittsburgh Steelers -2.5 1.87
+Total: Over 36.0 1.91
+Bookmaker: FanDuel
+Moneyline: Denver Broncos 2.24, Pittsburgh Steelers 1.68
+Spread: Denver Broncos 2.5 1.95, Pittsburgh Steelers -2.5 1.87
+Total: Over 36.5 1.91
+Bookmaker: BetOnline.ag
+Moneyline: Denver Broncos 2.2, Pittsburgh Steelers 1.71
+Spread: Denver Broncos 2.5 1.95, Pittsburgh Steelers -2.5 1.87
+Total: Over 36.5 1.95
+Bookmaker: LowVig.ag
+Moneyline: Denver Broncos 2.2, Pittsburgh Steelers 1.71
+Spread: Denver Broncos 2.5 2.0, Pittsburgh Steelers -2.5 1.91
+Total: Over 36.5 1.98
+Bookmaker: BetMGM
+Moneyline: Denver Broncos 2.25, Pittsburgh Steelers 1.67
+Spread: Denver Broncos 2.5 1.95, Pittsburgh Steelers -2.5 1.87
+Total: Over 36.5 1.91
+
+Bookmaker: DraftKings
+Moneyline: Chicago Bears 3.2, Houston Texans 1.37
+Spread: Chicago Bears 6.5 1.89, Houston Texans -6.5 1.93
+Total: Over 45.5 1.93
+Bookmaker: Caesars
+Moneyline: Chicago Bears 3.35, Houston Texans 1.34
+Spread: Chicago Bears 6.5 1.91, Houston Texans -6.5 1.91
+Total: Over 45.5 1.91
+Bookmaker: BetRivers
+Moneyline: Chicago Bears 3.3, Houston Texans 1.34
+Spread: Chicago Bears 6.5 1.94, Houston Texans -6.5 1.87
+Total: Over 45.5 1.91
+Bookmaker: Bovada
+Moneyline: Chicago Bears 3.3, Houston Texans 1.36
+Spread: Chicago Bears 6.5 1.91, Houston Texans -6.5 1.91
+Total: Over 45.5 1.91
+Bookmaker: BetUS
+Moneyline: Chicago Bears 3.4, Houston Texans 1.34
+Spread: Chicago Bears 6.5 1.91, Houston Texans -6.5 1.91
+Total: Over 45.0 1.91
+Bookmaker: FanDuel
+Moneyline: Chicago Bears 3.4, Houston Texans 1.34
+Spread: Chicago Bears 6.5 1.91, Houston Texans -6.5 1.91
+Total: Over 45.5 1.87
+Bookmaker: LowVig.ag
+Moneyline: Chicago Bears 3.25, Houston Texans 1.38
+Spread: Chicago Bears 6.5 1.94, Houston Texans -6.5 1.97
+Total: Over 45.0 1.94
+Bookmaker: BetOnline.ag
+Moneyline: Chicago Bears 3.25, Houston Texans 1.38
+Spread: Chicago Bears 6.5 1.89, Houston Texans -6.5 1.93
+Total: Over 45.0 1.91
+Bookmaker: BetMGM
+Moneyline: Chicago Bears 3.25, Houston Texans 1.36
+Spread: Chicago Bears 6.5 1.91, Houston Texans -6.5 1.91
+Total: Over 45.5 1.91
+
+Bookmaker: FanDuel
+Moneyline: Atlanta Falcons 3.25, Philadelphia Eagles 1.36
+Spread: Atlanta Falcons 6.0 1.95, Philadelphia Eagles -6.0 1.87
+Total: Over 46.5 1.87
+Bookmaker: BetRivers
+Moneyline: Atlanta Falcons 3.2, Philadelphia Eagles 1.36
+Spread: Atlanta Falcons 6.0 1.92, Philadelphia Eagles -6.0 1.89
+Total: Over 47.0 1.91
+Bookmaker: DraftKings
+Moneyline: Atlanta Falcons 3.2, Philadelphia Eagles 1.37
+Spread: Atlanta Falcons 6.0 1.91, Philadelphia Eagles -6.0 1.91
+Total: Over 47.0 1.93
+Bookmaker: Caesars
+Moneyline: Atlanta Falcons 3.15, Philadelphia Eagles 1.37
+Spread: Atlanta Falcons 6.0 1.91, Philadelphia Eagles -6.0 1.91
+Total: Over 46.5 1.91
+Bookmaker: BetUS
+Moneyline: Atlanta Falcons 3.18, Philadelphia Eagles 1.38
+Spread: Atlanta Falcons 6.5 1.83, Philadelphia Eagles -6.5 2.0
+Total: Over 47.0 1.95
+Bookmaker: Bovada
+Moneyline: Atlanta Falcons 3.15, Philadelphia Eagles 1.38
+Spread: Atlanta Falcons 6.0 1.95, Philadelphia Eagles -6.0 1.87
+Total: Over 47.0 1.95
+Bookmaker: LowVig.ag
+Moneyline: Atlanta Falcons 3.25, Philadelphia Eagles 1.38
+Spread: Atlanta Falcons 6.5 1.88, Philadelphia Eagles -6.5 2.03
+Total: Over 47.5 1.98
+Bookmaker: BetOnline.ag
+Moneyline: Atlanta Falcons 3.25, Philadelphia Eagles 1.38
+Spread: Atlanta Falcons 6.5 1.85, Philadelphia Eagles -6.5 1.98
+Total: Over 47.5 1.95
+Bookmaker: BetMGM
+Moneyline: Atlanta Falcons 3.2, Philadelphia Eagles 1.36
+Spread: Atlanta Falcons 6.0 1.91, Philadelphia Eagles -6.0 1.91
+Total: Over 47.0 1.91
+
+Bookmaker: DraftKings
+Moneyline: New England Patriots 3.4, New York Jets 1.34
+Spread: New England Patriots 7.0 1.85, New York Jets -7.0 1.98
+Total: Over 39.5 1.91
+Bookmaker: FanDuel
+Moneyline: New England Patriots 3.85, New York Jets 1.28
+Spread: New England Patriots 7.0 1.91, New York Jets -7.0 1.91
+Total: Over 39.5 1.95
+Bookmaker: BetRivers
+Moneyline: New England Patriots 3.45, New York Jets 1.32
+Spread: New England Patriots 7.0 1.95, New York Jets -7.0 1.87
+Total: Over 38.5 1.88
+
+Bookmaker: DraftKings
+Moneyline: Chicago Bears 2.14, Indianapolis Colts 1.74
+Spread: Chicago Bears 2.5 1.91, Indianapolis Colts -2.5 1.91
+Total: Over 46.5 1.91
+Bookmaker: FanDuel
+Moneyline: Chicago Bears 2.2, Indianapolis Colts 1.7
+Spread: Chicago Bears 2.5 1.91, Indianapolis Colts -2.5 1.91
+Total: Over 46.5 1.91
+Bookmaker: BetRivers
+Moneyline: Chicago Bears 2.12, Indianapolis Colts 1.74
+Spread: Chicago Bears 2.5 1.92, Indianapolis Colts -2.5 1.89
+Total: Over 45.5 1.93
+
+Bookmaker: DraftKings
+Moneyline: Cleveland Browns 1.36, New York Giants 3.25
+Spread: Cleveland Browns -6.5 1.91, New York Giants 6.5 1.91
+Total: Over 39.5 1.91
+Bookmaker: BetUS
+Spread: Cleveland Browns -6.5 1.91, New York Giants 6.5 1.91
+Bookmaker: FanDuel
+Moneyline: Cleveland Browns 1.37, New York Giants 3.2
+Spread: Cleveland Browns -6.5 1.91, New York Giants 6.5 1.91
+Total: Over 39.5 1.95
+Bookmaker: BetRivers
+Moneyline: Cleveland Browns 1.36, New York Giants 3.2
+Spread: Cleveland Browns -6.5 1.89, New York Giants 6.5 1.92
+Total: Over 39.5 1.91
+
+Bookmaker: DraftKings
+Moneyline: Denver Broncos 2.9, Tampa Bay Buccaneers 1.43
+Spread: Denver Broncos 5.5 1.91, Tampa Bay Buccaneers -5.5 1.91
+Total: Over 43.0 1.91
+Bookmaker: BetUS
+Spread: Denver Broncos 4.5 1.91, Tampa Bay Buccaneers -4.5 1.91
+Bookmaker: FanDuel
+Moneyline: Denver Broncos 2.94, Tampa Bay Buccaneers 1.43
+Spread: Denver Broncos 4.5 1.95, Tampa Bay Buccaneers -4.5 1.87
+Total: Over 42.5 1.87
+Bookmaker: BetRivers
+Moneyline: Denver Broncos 2.85, Tampa Bay Buccaneers 1.43
+Spread: Denver Broncos 4.5 1.89, Tampa Bay Buccaneers -4.5 1.92
+Total: Over 42.5 1.88
+
+Bookmaker: DraftKings
+Moneyline: Houston Texans 1.51, Minnesota Vikings 2.64
+Spread: Houston Texans -4.0 1.87, Minnesota Vikings 4.0 1.95
+Total: Over 46.5 1.91
+Bookmaker: BetUS
+Spread: Houston Texans -3.5 1.91, Minnesota Vikings 3.5 1.91
+Bookmaker: FanDuel
+Moneyline: Houston Texans 1.53, Minnesota Vikings 2.6
+Spread: Houston Texans -3.5 1.87, Minnesota Vikings 3.5 1.95
+Total: Over 46.5 1.87
+Bookmaker: BetRivers
+Moneyline: Houston Texans 1.56, Minnesota Vikings 2.43
+Spread: Houston Texans -3.5 1.88, Minnesota Vikings 3.5 1.93
+Total: Over 46.5 1.88
+
+Bookmaker: DraftKings
+Moneyline: Los Angeles Chargers 2.2, Pittsburgh Steelers 1.7
+Spread: Los Angeles Chargers 2.5 1.91, Pittsburgh Steelers -2.5 1.91
+Total: Over 39.0 1.91
+Bookmaker: BetUS
+Spread: Los Angeles Chargers 3.0 1.91, Pittsburgh Steelers -3.0 1.91
+Bookmaker: FanDuel
+Moneyline: Los Angeles Chargers 2.04, Pittsburgh Steelers 1.82
+Spread: Los Angeles Chargers 1.5 1.87, Pittsburgh Steelers -1.5 1.95
+Total: Over 38.5 1.95
+Bookmaker: BetRivers
+Moneyline: Los Angeles Chargers 2.02, Pittsburgh Steelers 1.8
+Spread: Los Angeles Chargers 1.5 1.92, Pittsburgh Steelers -1.5 1.89
+Total: Over 38.5 1.92
+
+Bookmaker: DraftKings
+Moneyline: New Orleans Saints 2.5, Philadelphia Eagles 1.56
+Spread: New Orleans Saints 3.5 1.87, Philadelphia Eagles -3.5 1.95
+Total: Over 47.0 1.91
+Bookmaker: BetUS
+Spread: New Orleans Saints 3.5 1.91, Philadelphia Eagles -3.5 1.91
+Bookmaker: FanDuel
+Moneyline: New Orleans Saints 2.56, Philadelphia Eagles 1.54
+Spread: New Orleans Saints 3.5 1.91, Philadelphia Eagles -3.5 1.91
+Total: Over 47.5 1.87
+Bookmaker: BetRivers
+Moneyline: New Orleans Saints 2.5, Philadelphia Eagles 1.53
+Spread: New Orleans Saints 3.5 1.88, Philadelphia Eagles -3.5 1.93
+Total: Over 46.5 1.92
+
+Bookmaker: BetUS
+Spread: Green Bay Packers 3.0 1.83, Tennessee Titans -3.0 2.0
+Bookmaker: FanDuel
+Moneyline: Green Bay Packers 2.14, Tennessee Titans 1.75
+Spread: Green Bay Packers 1.5 1.95, Tennessee Titans -1.5 1.87
+Total: Over 39.5 1.95
+Bookmaker: BetRivers
+Moneyline: Green Bay Packers 2.04, Tennessee Titans 1.8
+Spread: Green Bay Packers 1.5 1.93, Tennessee Titans -1.5 1.88
+Total: Over 40.0 1.89
+
+Bookmaker: DraftKings
+Moneyline: Carolina Panthers 2.7, Las Vegas Raiders 1.49
+Spread: Carolina Panthers 4.5 1.91, Las Vegas Raiders -4.5 1.91
+Total: Over 40.5 1.91
+Bookmaker: BetUS
+Spread: Carolina Panthers 4.5 1.91, Las Vegas Raiders -4.5 1.91
+Bookmaker: FanDuel
+Moneyline: Carolina Panthers 2.98, Las Vegas Raiders 1.42
+Spread: Carolina Panthers 5.5 1.87, Las Vegas Raiders -5.5 1.95
+Total: Over 39.5 1.87
+Bookmaker: BetRivers
+Moneyline: Carolina Panthers 2.65, Las Vegas Raiders 1.49
+Spread: Carolina Panthers 4.5 1.91, Las Vegas Raiders -4.5 1.91
+Total: Over 39.5 1.89
+
+Bookmaker: DraftKings
+Moneyline: Arizona Cardinals 2.8, Detroit Lions 1.46
+Spread: Arizona Cardinals 4.5 1.91, Detroit Lions -4.5 1.91
+Total: Over 52.0 1.91
+Bookmaker: FanDuel
+Moneyline: Arizona Cardinals 2.72, Detroit Lions 1.49
+Spread: Arizona Cardinals 4.5 1.85, Detroit Lions -4.5 1.96
+Total: Over 51.5 1.87
+Bookmaker: BetRivers
+Moneyline: Arizona Cardinals 2.75, Detroit Lions 1.47
+Spread: Arizona Cardinals 4.5 1.91, Detroit Lions -4.5 1.91
+Total: Over 51.5 1.88
+
+Bookmaker: DraftKings
+Moneyline: Baltimore Ravens 1.98, Dallas Cowboys 1.85
+Spread: Baltimore Ravens 1.0 1.91, Dallas Cowboys -1.0 1.91
+Total: Over 48.0 1.91
+Bookmaker: BetUS
+Spread: Baltimore Ravens 0.0 1.91, Dallas Cowboys 0.0 1.91
+Bookmaker: FanDuel
+Moneyline: Baltimore Ravens 1.98, Dallas Cowboys 1.85
+Spread: Baltimore Ravens 1.5 1.85, Dallas Cowboys -1.5 1.96
+Total: Over 47.5 1.91
+Bookmaker: BetRivers
+Moneyline: Baltimore Ravens 1.96, Dallas Cowboys 1.85
+Spread: Baltimore Ravens 1.0 1.91, Dallas Cowboys -1.0 1.91
+Total: Over 47.5 1.91
+
+Bookmaker: DraftKings
+Moneyline: Los Angeles Rams 2.85, San Francisco 49ers 1.44
+Spread: Los Angeles Rams 4.5 1.91, San Francisco 49ers -4.5 1.91
+Total: Over 48.5 1.91
+Bookmaker: BetUS
+Spread: Los Angeles Rams 6.0 1.91, San Francisco 49ers -6.0 1.91
+Bookmaker: FanDuel
+Moneyline: Los Angeles Rams 2.8, San Francisco 49ers 1.47
+Spread: Los Angeles Rams 4.5 1.91, San Francisco 49ers -4.5 1.91
+Total: Over 47.5 1.83
+Bookmaker: BetRivers
+Moneyline: Los Angeles Rams 2.75, San Francisco 49ers 1.45
+Spread: Los Angeles Rams 4.5 1.92, San Francisco 49ers -4.5 1.89
+Total: Over 48.5 1.93
+
+Bookmaker: DraftKings
+Moneyline: Atlanta Falcons 2.7, Kansas City Chiefs 1.49
+Spread: Atlanta Falcons 4.0 1.91, Kansas City Chiefs -4.0 1.91
+Total: Over 47.5 1.91
+Bookmaker: BetUS
+Spread: Atlanta Falcons 3.5 1.91, Kansas City Chiefs -3.5 1.91
+Bookmaker: FanDuel
+Moneyline: Atlanta Falcons 2.8, Kansas City Chiefs 1.47
+Spread: Atlanta Falcons 4.5 1.91, Kansas City Chiefs -4.5 1.91
+Total: Over 46.5 1.83
+Bookmaker: BetRivers
+Moneyline: Atlanta Falcons 2.63, Kansas City Chiefs 1.49
+Spread: Atlanta Falcons 4.5 1.91, Kansas City Chiefs -4.5 1.91
+Total: Over 47.5 1.93
+
+Bookmaker: FanDuel
+Moneyline: Buffalo Bills 1.48, Jacksonville Jaguars 2.76
+Spread: Buffalo Bills -4.0 1.91, Jacksonville Jaguars 4.0 1.91
+Total: Over 47.5 1.91
+
+Bookmaker: DraftKings
+Moneyline: Cincinnati Bengals 1.34, Washington Commanders 3.4
+Spread: Cincinnati Bengals -6.5 1.91, Washington Commanders 6.5 1.91
+Total: Over 47.5 1.91
+Bookmaker: BetUS
+Spread: Cincinnati Bengals -6.5 1.91, Washington Commanders 6.5 1.91
+Bookmaker: FanDuel
+Moneyline: Cincinnati Bengals 1.27, Washington Commanders 3.9
+Spread: Cincinnati Bengals -7.0 1.87, Washington Commanders 7.0 1.95
+Total: Over 47.5 1.91
+Bookmaker: BetRivers
+Moneyline: Cincinnati Bengals 1.32, Washington Commanders 3.4
+Spread: Cincinnati Bengals -7.0 1.93, Washington Commanders 7.0 1.88
+Total: Over 47.5 1.89
+
